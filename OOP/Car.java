@@ -1,4 +1,4 @@
-package OOP.ObjectBasics;
+package OOP;
 
 public class Car {
     
