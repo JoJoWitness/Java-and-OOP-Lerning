@@ -8,7 +8,7 @@ public class GS2 {
         person.setAge(21);
         person.setName("Jordano");
 
-        System.out.println("Hi my name is "+ person.getName() + " and I'm " +person.getAge() +" years old.");
+        System.out.println("Hi my name is "+ person.getName() + " and I'm " +person.getAge() +" years old. My dog's name is "+person.getPet()+".");
 
     }
 
