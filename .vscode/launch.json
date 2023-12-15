@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BasicAlgorithms.BubbleSort",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "BasicAlgorithms.Insertion",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Conditionals",
+            "request": "launch",
+            "mainClass": "Conditionals",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Constants",
+            "request": "launch",
+            "mainClass": "Constants",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Exercises.OOP.Movement_Matrix.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Exercises.OOP.Quadrilateral_Exer.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "InOut",
+            "request": "launch",
+            "mainClass": "InOut",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "JOptionPanePractice",
+            "request": "launch",
+            "mainClass": "JOptionPanePractice",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "NonPrimitiveData",
+            "request": "launch",
+            "mainClass": "NonPrimitiveData",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "OOP.Car",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "OOP.Constructor.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "GS2",
+            "request": "launch",
+            "mainClass": "OOP.Getters_Setters.GS2",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "OOP.Operations.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Class2",
+            "request": "launch",
+            "mainClass": "OOP.Package.Package1.Class2",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Class3",
+            "request": "launch",
+            "mainClass": "OOP.Package.Package2.Class3",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "OOP.StaticMethods.Static",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveData",
+            "request": "launch",
+            "mainClass": "PrimitiveData",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        }
+    ]
+}
