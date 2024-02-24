@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "OOP.Exceptions.Examples.TryCatch",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "DeclareException",
+            "request": "launch",
+            "mainClass": "OOP.Exceptions.Examples.DeclareException",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Examples",
+            "request": "launch",
+            "mainClass": "OOP.Exceptions.Examples.Examples",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "dividedByZero",
+            "request": "launch",
+            "mainClass": "OOP.Exceptions.Examples.dividedByZero",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOP.Polymorphims.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOP.Abstract_Classes.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOP.Overide.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOP.Inheritance.Main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

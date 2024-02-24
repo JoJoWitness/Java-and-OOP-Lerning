@@ -12,7 +12,7 @@ public class Car {
 
 
         ryukCar.color = "Red";
-        ryukCar.brand=" Ferrari";
+        ryukCar.brand="Ferrari";
         ryukCar.km= 0;
 
         System.out.println("Ryuk's car color is: " +ryukCar.color);
