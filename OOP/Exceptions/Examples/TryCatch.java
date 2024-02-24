@@ -26,7 +26,7 @@ public class TryCatch {
       System.out.println("The file was not found");
     } catch(IOException ex){
       System.out.println("The was a verified exception");
-    }
+    } finally
   }
 
 
