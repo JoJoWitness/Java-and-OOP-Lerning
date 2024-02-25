@@ -22,11 +22,11 @@ public class TryCatch {
   public void readFile2(){
     try{
       readFile();
-    } catch( FileNotFoundException ex){
+    } catch(FileNotFoundException ex){
       System.out.println("The file was not found");
     } catch(IOException ex){
       System.out.println("The was a verified exception");
-    } finally
+    }
   }
 
 

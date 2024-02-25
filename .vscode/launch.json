@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
             "name": "TryCatch",
             "request": "launch",
             "mainClass": "OOP.Exceptions.Examples.TryCatch",
