@@ -8,6 +8,27 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "GUI.JLabel.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.Jpanel.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.Jframe.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "GUI.main",
             "projectName": "Java-and-OOP-Lerning_5bd6a72e"
         },
