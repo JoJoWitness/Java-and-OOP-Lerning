@@ -1,10 +1,12 @@
-package GUI.JButton;
+package GUI.JRadioButton;
 
+import javax.swing.ButtonGroup;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JRadioButton;
 import javax.swing.SwingConstants;
 
 import java.awt.color.*;
@@ -30,7 +32,7 @@ public class Window extends JFrame{
       
       createPanels();
       addLabels();
-      addButtons();
+      addRadioButtons();
     }
 
     private void createPanels(){
@@ -70,6 +72,31 @@ public class Window extends JFrame{
       button.setFont(new Font("arial", Font.PLAIN, 20));
       button.setMnemonic('a');
       panel.add(button);
+    }
+
+    private void addRadioButtons(){
+      JRadioButton radioButton4 = new JRadioButton("R", true);
+      radioButton4.setBounds(100, 100, 50, 40);
+      panel.add(radioButton4);
+
+      JRadioButton radioButton1 = new JRadioButton("Ru", true);
+      radioButton1.setBounds(100, 100, 50, 40);
+      panel.add(radioButton1);
+
+      JRadioButton radioButton2 = new JRadioButton("Ryu", false);
+      radioButton2.setBounds(100, 100, 50, 40);
+      panel.add(radioButton2);
+
+      JRadioButton radioButton3 = new JRadioButton("Ryuk", false);
+      radioButton3.setBounds(100, 100, 50, 40);
+      panel.add(radioButton3);
+
+      ButtonGroup buttonGroup = new ButtonGroup();
+      buttonGroup.add(radioButton1);
+      buttonGroup.add(radioButton2);
+      buttonGroup.add(radioButton3);
+      buttonGroup.add(radioButton4);
+
     }
 
 }

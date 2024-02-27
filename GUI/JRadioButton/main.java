@@ -1,4 +1,4 @@
-package GUI.JButton;
+package GUI.JRadioButton;
 
 public class main {
   public static void main(String[] args) {

@@ -8,6 +8,13 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "GUI.JRadioButton.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "GUI.JLabel.main",
             "projectName": "Java-and-OOP-Lerning_5bd6a72e"
         },
