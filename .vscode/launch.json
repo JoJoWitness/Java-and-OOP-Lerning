@@ -8,6 +8,34 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "GUI.Listeners.ActionListener.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.Listeners.KeyListener.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.Listeners.MouseListener.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.Listeners.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "GUI.JComboBox.main",
             "projectName": "Java-and-OOP-Lerning_5bd6a72e"
         },
