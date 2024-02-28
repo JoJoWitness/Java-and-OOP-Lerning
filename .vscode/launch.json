@@ -8,6 +8,27 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "GUI.JComboBox.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.JTextArea.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "GUI.JTextField.main",
+            "projectName": "Java-and-OOP-Lerning_5bd6a72e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "GUI.JRadioButton.main",
             "projectName": "Java-and-OOP-Lerning_5bd6a72e"
         },
